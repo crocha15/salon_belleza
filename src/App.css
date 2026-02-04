@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+input{
+  @apply
+  border-1 m-3 rounded-3xl p-4 w-60 
+}
+
+select{
+  @apply
+  border-1 m-3 rounded-3xl p-4 w-60 
+}
